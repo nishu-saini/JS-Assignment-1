@@ -1,0 +1,1 @@
+export var popular_tech = ['Django', 'Javascript', 'React', 'Angular', 'Node', 'PHP'];
